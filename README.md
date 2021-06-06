@@ -1,4 +1,4 @@
-# waveshare_GamePI43
+# waveshare_GamePi43
 
 This is a short description on how to adapt the Recalbox 7.2.x configuration to match the Waveshare GamePi43 button mappings. It is completely based on the information available on [Waveshare's Wiki page][1]. 
 
